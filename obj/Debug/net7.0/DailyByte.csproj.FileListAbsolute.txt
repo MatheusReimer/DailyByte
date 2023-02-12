@@ -1,0 +1,15 @@
+D:\Projects\Web\DailyByte\obj\Debug\net7.0\DailyByte.csproj.AssemblyReference.cache
+D:\Projects\Web\DailyByte\obj\Debug\net7.0\DailyByte.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Web\DailyByte\obj\Debug\net7.0\DailyByte.AssemblyInfoInputs.cache
+D:\Projects\Web\DailyByte\obj\Debug\net7.0\DailyByte.AssemblyInfo.cs
+D:\Projects\Web\DailyByte\obj\Debug\net7.0\DailyByte.csproj.CoreCompileInputs.cache
+D:\Projects\Web\DailyByte\bin\Debug\net7.0\DailyByte.exe
+D:\Projects\Web\DailyByte\bin\Debug\net7.0\DailyByte.deps.json
+D:\Projects\Web\DailyByte\bin\Debug\net7.0\DailyByte.runtimeconfig.json
+D:\Projects\Web\DailyByte\bin\Debug\net7.0\DailyByte.dll
+D:\Projects\Web\DailyByte\bin\Debug\net7.0\DailyByte.pdb
+D:\Projects\Web\DailyByte\obj\Debug\net7.0\DailyByte.dll
+D:\Projects\Web\DailyByte\obj\Debug\net7.0\refint\DailyByte.dll
+D:\Projects\Web\DailyByte\obj\Debug\net7.0\DailyByte.pdb
+D:\Projects\Web\DailyByte\obj\Debug\net7.0\DailyByte.genruntimeconfig.cache
+D:\Projects\Web\DailyByte\obj\Debug\net7.0\ref\DailyByte.dll
